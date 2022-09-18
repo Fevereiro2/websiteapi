@@ -1,0 +1,1 @@
+Estou a investir num site com uma infrastrutura um pouco complexa e dinamica. Neste momento tenho aqui um template feito só em html e css mas quero nas proximas vers~oes futuras adicionar um sistema de API e uma conexão a uma database , e sucessivamente trocar o site para react-js  
